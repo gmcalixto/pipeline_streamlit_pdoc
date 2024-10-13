@@ -21,3 +21,8 @@ Como instalar?
 
 `streamlit run app.py`
 
+Você pode também executar este aplicativo através do GitHub Codespaces utilizando este repositório
+https://github.com/codespaces
+
+Vamos também efetuar o deploy da aplicação utilizando o Streamlit Community Cloud
+https://streamlit.io/cloud
