@@ -12,7 +12,7 @@ Como instalar?
 
 - Acesse a pasta da aplicaçaõ e faça a instalação dos pacotes necessários para executar a aplicação, listados no arquivo requirements.txt
 
-`cd pipeline_streamlit`
+`cd pipeline_streamlit` <br>
 `pip install -r requirements.txt`
 
 <em>Você pode opcionalmente ativar um ambiente virtual antes de realizar a instalação do pacotes.</em>
