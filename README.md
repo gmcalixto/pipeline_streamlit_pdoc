@@ -10,6 +10,8 @@ Como instalar?
 `git clone https://github.com/gmcalixto/pipeline_streamlit.git`
 
 
+<em>Você pode também importar este repositório e trabalhar em sua própria conta do GitHub</em>
+
 - Acesse a pasta da aplicaçaõ e faça a instalação dos pacotes necessários para executar a aplicação, listados no arquivo requirements.txt
 
 `cd pipeline_streamlit` <br>
