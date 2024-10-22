@@ -5,7 +5,7 @@ import plotly.express as px
 
 
 #configurando o titulo da janela
-st.set_page_config(page_title="Indicadores referente ao grupo de pessoas", page_icon="👁")
+st.set_page_config(page_title="Indicadores referente ao arquivo CSV", page_icon="👁")
 
 #abre o arquivo manualmente
 file = 'persons.csv'
@@ -49,7 +49,7 @@ age_gender_distribution = data.groupby(['age_group', 'gender'], observed=True).s
 
 
 #renderizações no Streamlit
-st.title("Indicadores referente ao grupo de pessoas")
+st.title("Indicadores referente ao arquivo CSV")
 
 st.subheader("Dados de origem")
 st.dataframe(data)
